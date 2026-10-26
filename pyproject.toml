@@ -1,0 +1,15 @@
+[project]
+name = "cloud-visao-artificial"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "aiomqtt>=2.5.1",
+    "black>=22.1.0",
+    "blue>=0.9.1",
+    "dotenv>=0.9.9",
+    "fastapi[standard]>=0.162.0",
+    "paho-mqtt>=2.1.0",
+    "uvicorn>=0.54.0",
+]
