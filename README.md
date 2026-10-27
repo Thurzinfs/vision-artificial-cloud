@@ -150,3 +150,17 @@ Com o arquivo `.env` preenchido, construa e execute a imagem:
 docker build -t cloud-visao-artificial .
 docker run --env-file .env -p 8000:8000 cloud-visao-artificial
 ```
+
+---
+
+## Contato
+
+- **Autor** — Arthur França Silva
+- **E-mail** — arthurfranca.dev@gmail.com
+- **GitHub** — [@Thurzinfs](https://github.com/Thurzinfs)
+
+---
+
+<div align="center">
+  Desenvolvido com ❤️ por <a href="https://github.com/Thurzinfs">Arthur França Silva</a>
+</div>
