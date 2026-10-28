@@ -1,6 +1,6 @@
 # Visão Artificial — API Central (Nuvem)
 
-> Este repositório faz parte do ecossistema **Visão Artificial**. Ele atua como o núcleo de comunicação e roteamento. Para ver as outras pontas, consulte os repositórios da [API Local de IA] e do [Aplicativo Mobile (Flutter)].
+> Este repositório faz parte do ecossistema **Visão Artificial**. Ele atua como o núcleo de comunicação e roteamento. Para ver as outras pontas, consulte os repositórios da [API Local de IA](https://github.com/Thurzinfs/vision-artificial-local) e do [Aplicativo Mobile (Flutter)](https://github.com/Thurzinfs/vision-artificial-mobile).
 
 ---
 
